@@ -1,6 +1,6 @@
 # 01-about-myself
 
-ENG: A short introduction about myself.
+ENG: A short introduction about myself.  
 KOR: 저에 대한 짧은 자기소개입니다.
 
 This is the first repository of my Github account.
